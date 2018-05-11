@@ -1,18 +1,18 @@
 {
-    "name": "adm-zip",
-    "version": "0.4.9",
-    "description": "Javascript implementation of zip for nodejs with support for electron original-fs. Allows user to create or extract zip files both in memory or to/from disk",
+    "name": "adm-zip-jmcnet",
+    "version": "0.1.0",
+    "description": "A fork to fix issue 218 from original project. Javascript implementation of zip for nodejs with support for electron original-fs. Allows user to create or extract zip files both in memory or to/from disk",
     "keywords": [
         "zip",
         "methods",
         "archive",
         "unzip"
     ],
-    "homepage": "https://github.com/cthackers/adm-zip",
+    "homepage": "https://github.com/jmcollin78/adm-zip",
     "author": "Nasca Iacob <sy@another-d-mention.ro> (https://github.com/cthackers)",
     "bugs": {
         "email": "sy@another-d-mention.ro",
-        "url": "https://github.com/cthackers/adm-zip/issues"
+        "url": "https://github.com/jmcollin78/adm-zip/issues"
     },
     "license": "MIT",
     "files": [
@@ -26,9 +26,9 @@
     "main": "adm-zip.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cthackers/adm-zip.git"
+        "url": "https://github.com/jmcollin78/adm-zip.git"
     },
     "engines": {
-        "node": ">=0.3.0"
+        "node": ">=6.0.0"
     }
 }
